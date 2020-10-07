@@ -1,0 +1,9 @@
+D:\projrct rep\Charity\Charity\Charity.Domain\bin\Debug\netstandard2.1\Charity.Domain.deps.json
+D:\projrct rep\Charity\Charity\Charity.Domain\bin\Debug\netstandard2.1\Charity.Domain.dll
+D:\projrct rep\Charity\Charity\Charity.Domain\bin\Debug\netstandard2.1\Charity.Domain.pdb
+D:\projrct rep\Charity\Charity\Charity.Domain\obj\Debug\netstandard2.1\Charity.Domain.csprojAssemblyReference.cache
+D:\projrct rep\Charity\Charity\Charity.Domain\obj\Debug\netstandard2.1\Charity.Domain.AssemblyInfoInputs.cache
+D:\projrct rep\Charity\Charity\Charity.Domain\obj\Debug\netstandard2.1\Charity.Domain.AssemblyInfo.cs
+D:\projrct rep\Charity\Charity\Charity.Domain\obj\Debug\netstandard2.1\Charity.Domain.csproj.CoreCompileInputs.cache
+D:\projrct rep\Charity\Charity\Charity.Domain\obj\Debug\netstandard2.1\Charity.Domain.dll
+D:\projrct rep\Charity\Charity\Charity.Domain\obj\Debug\netstandard2.1\Charity.Domain.pdb

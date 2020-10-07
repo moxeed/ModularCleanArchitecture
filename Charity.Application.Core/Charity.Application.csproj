@@ -1,0 +1,16 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Charity.Application.Identity\Charity.Application.IdentityModule.csproj" />
+    <ProjectReference Include="..\Charity.Application.Module.FileModule\Charity.Application.FileModule.csproj" />
+    <ProjectReference Include="..\Charity.Application.Module.PostModule\Charity.Application.PostModule.csproj" />
+    <ProjectReference Include="..\Charity.Application.PhilanthropistModule\Charity.Application.PhilanthropistModule.csproj" />
+    <ProjectReference Include="..\Charity.Application.Project\Charity.Application.ProjectModule.csproj" />
+    <ProjectReference Include="..\Charity.Infrastructure.File\Charity.Infrastructure.File.csproj" />
+  </ItemGroup>
+
+</Project>

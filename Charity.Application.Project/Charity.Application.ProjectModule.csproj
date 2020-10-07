@@ -1,0 +1,12 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Charity.Application.PhilanthropistModule\Charity.Application.PhilanthropistModule.csproj" />
+    <ProjectReference Include="..\Charity\Charity.Application\Charity.Application.Module.csproj" />
+  </ItemGroup>
+
+</Project>

@@ -1,0 +1,16 @@
+D:\projrct rep\Charity\Charity.Application.Module.FileModule\bin\Debug\netcoreapp3.1\Charity.Application.FileModule.deps.json
+D:\projrct rep\Charity\Charity.Application.Module.FileModule\bin\Debug\netcoreapp3.1\Charity.Application.FileModule.dll
+D:\projrct rep\Charity\Charity.Application.Module.FileModule\bin\Debug\netcoreapp3.1\Charity.Application.FileModule.pdb
+D:\projrct rep\Charity\Charity.Application.Module.FileModule\bin\Debug\netcoreapp3.1\Charity.Application.IdentityModule.dll
+D:\projrct rep\Charity\Charity.Application.Module.FileModule\bin\Debug\netcoreapp3.1\Charity.Application.Module.dll
+D:\projrct rep\Charity\Charity.Application.Module.FileModule\bin\Debug\netcoreapp3.1\Charity.Domain.dll
+D:\projrct rep\Charity\Charity.Application.Module.FileModule\bin\Debug\netcoreapp3.1\Charity.Application.IdentityModule.pdb
+D:\projrct rep\Charity\Charity.Application.Module.FileModule\bin\Debug\netcoreapp3.1\Charity.Application.Module.pdb
+D:\projrct rep\Charity\Charity.Application.Module.FileModule\bin\Debug\netcoreapp3.1\Charity.Domain.pdb
+D:\projrct rep\Charity\Charity.Application.Module.FileModule\obj\Debug\netcoreapp3.1\Charity.Application.FileModule.csprojAssemblyReference.cache
+D:\projrct rep\Charity\Charity.Application.Module.FileModule\obj\Debug\netcoreapp3.1\Charity.Application.FileModule.AssemblyInfoInputs.cache
+D:\projrct rep\Charity\Charity.Application.Module.FileModule\obj\Debug\netcoreapp3.1\Charity.Application.FileModule.AssemblyInfo.cs
+D:\projrct rep\Charity\Charity.Application.Module.FileModule\obj\Debug\netcoreapp3.1\Charity.Application.FileModule.csproj.CoreCompileInputs.cache
+D:\projrct rep\Charity\Charity.Application.Module.FileModule\obj\Debug\netcoreapp3.1\Charity.Application.FileModule.csproj.CopyComplete
+D:\projrct rep\Charity\Charity.Application.Module.FileModule\obj\Debug\netcoreapp3.1\Charity.Application.FileModule.dll
+D:\projrct rep\Charity\Charity.Application.Module.FileModule\obj\Debug\netcoreapp3.1\Charity.Application.FileModule.pdb
